@@ -1,0 +1,27 @@
+.registration-date {
+    display: flex;
+    width: 12%;
+    height: 5.5rem;
+    background-color: #2a2a2a;
+    color: white !important;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.registration-date__month {
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: white;
+}
+
+.registration-date__year {
+    font-size: 0.75rem;
+    color: white;
+}
+
+.registration-date__day {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}
